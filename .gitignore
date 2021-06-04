@@ -2,3 +2,5 @@
 .idea
 # Modules
 node_modules
+# Serverless files
+.serverless
